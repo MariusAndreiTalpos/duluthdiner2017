@@ -19,7 +19,7 @@
   "homepage": "https://github.com/GeminiLegend/duluthdiner2017#readme",
   "devDependencies": {
     "browser-sync": "^2.18.8",
-    "node-sass": "^4.5.2"
+    "node-sass": "^4.13.1"
   },
   "dependencies": {
     "jquery": "^3.2.1"
